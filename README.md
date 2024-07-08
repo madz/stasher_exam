@@ -24,13 +24,13 @@ Follow these instructions to get the Stasher Exam App up and running on your loc
 
 1. **Clone the Repository**: Download or clone this repository to your local machine.
    ```sh
-   git clone https://github.com/yourusername/flutter-current-day-app.git
+   git clone https://github.com/madz/stasher_exam.git
    ```
    Alternatively, you can download the ZIP file from the GitHub repository and extract it to your desired location.
 
 2. **Navigate to the Project Directory**: Open a terminal or command prompt and navigate to the project directory.
    ```sh
-   cd flutter-current-day-app
+   cd stasher_exam
    ```
 
 3. **Install Dependencies**: Run the following command to install the necessary dependencies.
@@ -48,9 +48,3 @@ Follow these instructions to get the Stasher Exam App up and running on your loc
    ```sh
    flutter run
    ```
-
-## Additional Information
-
-### Troubleshooting
-
-- **Flutter Doctor**: If you encounter any issues, run `flutter doctor` to check for any missing dependencies or configuration issues.
