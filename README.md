@@ -48,3 +48,7 @@ Follow these instructions to get the Stasher Exam App up and running on your loc
    ```sh
    flutter run
    ```
+
+### Screenshots
+
+![Stasher Exam App](https://github.com/madz/stasher_exam/blob/main/screenshots/Simulator%20Screenshot%20-%20iPhone%2013%20-%202024-07-08%20at%2019.39.11.png)
